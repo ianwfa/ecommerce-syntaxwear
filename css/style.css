@@ -2,13 +2,8 @@
    Estilos Gerais - SyntaxWear
    ========================================================================== */
 
-:root {
-  /* Paleta base de cores */
-  --bg-color: #eaf3eb; /* Tom verde suave e agradável */
-  --text-color: #1a1a1a;
-}
-
 body {
+  font-family: var(--fonte-principal);
   background-color: var(--bg-color);
   color: var(--text-color);
 }
